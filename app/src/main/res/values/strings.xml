@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsappChatScreenDesign</string>
+    <string name="whatsapp_title">WhatsApp</string>
+    <string name="my_status">My Status</string>
+    <string name="tap_to_add_status_update">Tap to add status update</string>
+    <string name="recent">Recent</string>
+    <string name="recent_updates">Recent updates</string>
+    <string name="viewed_updates">Viewed updates</string>
+    <string name="muted_updates">Muted updates</string>
+    <string name="create_call_link">Create call link</string>
+    <string name="share_link_for_call">Share a link for you WhatsApp call</string>
+</resources>
