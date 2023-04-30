@@ -8,7 +8,7 @@ val chatListItems = listOf(
     ChatListData(
         1,
         "https://fastly.picsum.photos/id/433/200/200.jpg?hmac=dBn6DDBngOA94Grm3jfIJNDtv08GorUvB0zMeAw0Jfs",
-        "Self Vodafone (You)",
+        "Self (You)",
         MessageDeliveryStatus.DELIVERED,
         MessageType.TEXT,
         "9:29 am",
@@ -18,7 +18,7 @@ val chatListItems = listOf(
     ChatListData(
         2,
         "https://fastly.picsum.photos/id/98/200/200.jpg?hmac=QiHfqn1VEz1-KB7Wpb5iUbtrmTV8s2e3DJFb4HEp-y0",
-        "Richa",
+        "David Warner",
         MessageDeliveryStatus.READ,
         MessageType.VIDEO,
         "9:32 am",
@@ -28,7 +28,7 @@ val chatListItems = listOf(
     ChatListData(
         3,
         "https://fastly.picsum.photos/id/1076/200/200.jpg?hmac=KTOq4o7b6rXzwd8kYN0nWrPIeKI97mzxBdWhnn-o-Nc",
-        "Aarti Flipon Media",
+        "Sourav Ganguly",
         MessageDeliveryStatus.DELIVERED,
         MessageType.TEXT,
         "9:39 am",
@@ -38,7 +38,7 @@ val chatListItems = listOf(
     ChatListData(
         4,
         "https://fastly.picsum.photos/id/961/200/200.jpg?hmac=gHwrXvhjUL97oGKmAYQn508wdQ_V5sE9P64erzR-Ork",
-        "Mummy",
+        "Ricky",
         MessageDeliveryStatus.DELIVERED,
         MessageType.VIDEO,
         "9:44 am",
@@ -48,7 +48,7 @@ val chatListItems = listOf(
     ChatListData(
         5,
         "https://fastly.picsum.photos/id/866/200/200.jpg?hmac=i0ngmQOk9dRZEzhEosP31m_vQnKBQ9C19TBP1CGoIUA",
-        "Papa Ji",
+        "Bhuvasenshwar",
         MessageDeliveryStatus.READ,
         MessageType.VIDEO,
         "9:50 am",

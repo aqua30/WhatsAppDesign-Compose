@@ -17,6 +17,15 @@ val callsList = listOf(
         "David Warner",
         callCount = 2,
         timeStamp = "Today, 11:20 am"
+    ),
+    CallData(
+        3,
+        CallType.AUDIO,
+        CallStatus.MISSED,
+        "https://fastly.picsum.photos/id/1076/200/200.jpg?hmac=KTOq4o7b6rXzwd8kYN0nWrPIeKI97mzxBdWhnn-o-Nc",
+        "Clark",
+        callCount = 1,
+        timeStamp = "Today, 12:20 am"
     )
 )
 
